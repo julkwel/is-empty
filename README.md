@@ -12,10 +12,12 @@ const {isEmpty} = require("@julkwel/is-empty");
 console.log(isEmpty("0")); // output : true
 console.log(isEmpty("    ")); // output : true
 console.log(isEmpty(null)); // output : true
-
-
 console.log(isEmpty("10")); // output: false
 console.log(isEmpty("a")); // output: false
 ```
+
+
+## Testing :
+`npm test` or `yarn test`
 
 Feel free to reach out to me.
