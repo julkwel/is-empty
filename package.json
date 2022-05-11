@@ -1,6 +1,6 @@
 {
   "name": "@julkwel/is-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript testing an array, string, int is empty, null or 0",
   "main": "./lib/index.js",
   "scripts": {
