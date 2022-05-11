@@ -2,9 +2,9 @@
   "name": "@julkwel/is-empty",
   "version": "1.0.0",
   "description": "Javascript testing an array, string, int is empty, null or 0",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/julkwel/javascript-is-empty/issues"
   },
-  "homepage": "https://github.com/julkwel/javascript-is-empty#readme"
+  "homepage": "https://github.com/julkwel/javascript-is-empty#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
