@@ -1,6 +1,6 @@
 # @julkwel/is-empty
 
-Testing an array, string or int is empty null or 0
+Testing an array, string or int if is it empty null or 0
 
 ## Installation :
 `yarn add @julkwel/is-empty` or `npm install @julkwel/is-empty`
