@@ -7,7 +7,7 @@ Testing an array, string or int if is it empty null or 0
 
 ## Usage : 
 ```
-const {isEmpty} = require("@julkwel/is-empty");
+const isEmpty = require("@julkwel/is-empty");
 
 console.log(isEmpty("0")); // output : true
 console.log(isEmpty("    ")); // output : true
