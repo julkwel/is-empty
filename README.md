@@ -1,4 +1,4 @@
-# @julkwel/is-empty
+# @julkwel/is-empty :madagascar:
 
 Testing an array, string or int if is it empty null or 0
 
